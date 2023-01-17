@@ -1,4 +1,4 @@
-const API_URL = "https://darius-project.herokuapp.com/";
+const API_URL = "https://darius-project.herokuapp.com";
 
 let webstore = new Vue({
   el: "#app",
